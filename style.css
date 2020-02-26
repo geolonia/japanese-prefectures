@@ -1,0 +1,24 @@
+#map
+{
+  width: 800px;
+  height: auto;
+  max-width: 98%;
+  margin: 0 auto;
+}
+
+svg
+{
+  width: 100%;
+}
+
+#japanese-prefectures .prefecture
+{
+  fill: #f7f7f7;
+  stroke: #999999;
+  cursor: pointer;
+}
+
+#japanese-prefectures .boundary-line
+{
+  stroke: #999999;
+}

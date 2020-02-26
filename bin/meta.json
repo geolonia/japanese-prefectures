@@ -1,0 +1,242 @@
+[
+  {
+    "id": "hokkaido",
+    "code": "01",
+    "ja": "北海道"
+  },
+  {
+    "id": "aomori",
+    "code": "02",
+    "ja": "青森"
+  },
+  {
+    "iwate": "iwate",
+    "code": "03",
+    "ja": "岩手"
+  },
+  {
+    "id": "miyagi",
+    "code": "04",
+    "ja": "宮城"
+  },
+  {
+    "id": "aktia",
+    "code": "05",
+    "ja": "秋田"
+  },
+  {
+    "id": "yamagata",
+    "code": "06",
+    "ja": "山形"
+  },
+  {
+    "id": "fukushima",
+    "code": "07",
+    "ja": "福島"
+  },
+  {
+    "id": "ibaraki",
+    "code": "08",
+    "ja": "茨城"
+  },
+  {
+    "id": "tochigi",
+    "code": "09",
+    "ja": "栃木"
+  },
+  {
+    "id": "gunma",
+    "code": "10",
+    "ja": "群馬"
+  },
+  {
+    "id": "saitama",
+    "code": "11",
+    "ja": "埼玉"
+  },
+  {
+    "id": "chiba",
+    "code": "12",
+    "ja": "千葉"
+  },
+  {
+    "id": "chiba",
+    "code": "13",
+    "ja": "東京"
+  },
+  {
+    "id": "kanagawa",
+    "code": "14",
+    "ja": "神奈川"
+  },
+  {
+    "id": "niigata",
+    "code": "15",
+    "ja": "新潟"
+  },
+  {
+    "id": "toyama",
+    "code": "16",
+    "ja": "富山"
+  },
+  {
+    "id": "ishikawa",
+    "code": "17",
+    "ja": "石川"
+  },
+  {
+    "id": "fukui",
+    "code": "18",
+    "ja": "福井"
+  },
+  {
+    "id": "yamanashi",
+    "code": "19",
+    "ja": "山梨"
+  },
+  {
+    "id": "nagano",
+    "code": "20",
+    "ja": "長野"
+  },
+  {
+    "id": "gifu",
+    "code": "21",
+    "ja": "岐阜"
+  },
+  {
+    "id": "gifu",
+    "code": "21",
+    "ja": "岐阜"
+  },
+  {
+    "id": "shizuoka",
+    "code": "22",
+    "ja": "静岡"
+  },
+  {
+    "id": "aichi",
+    "code": "23",
+    "ja": "愛知"
+  },
+  {
+    "id": "mie",
+    "code": "24",
+    "ja": "三重"
+  },
+  {
+    "id": "shiga",
+    "code": "25",
+    "ja": "滋賀"
+  },
+  {
+    "id": "kyoto",
+    "code": "26",
+    "ja": "京都"
+  },
+  {
+    "id": "osaka",
+    "code": "27",
+    "ja": "大阪"
+  },
+  {
+    "id": "hyogo",
+    "code": "28",
+    "ja": "兵庫"
+  },
+  {
+    "id": "nara",
+    "code": "29",
+    "ja": "奈良"
+  },
+  {
+    "id": "wakayama",
+    "code": "30",
+    "ja": "和歌山"
+  },
+  {
+    "id": "tottori",
+    "code": "31",
+    "ja": "鳥取"
+  },
+  {
+    "id": "shimane",
+    "code": "32",
+    "ja": "島根"
+  },
+  {
+    "id": "okayama",
+    "code": "33",
+    "ja": "岡山"
+  },
+  {
+    "id": "hiroshima",
+    "code": "34",
+    "ja": "広島"
+  },
+  {
+    "id": "yamaguchi",
+    "code": "35",
+    "ja": "山口"
+  },
+  {
+    "id": "tokushima",
+    "code": "36",
+    "ja": "徳島"
+  },
+  {
+    "id": "kagawa",
+    "code": "37",
+    "ja": "香川"
+  },
+  {
+    "id": "ehime",
+    "code": "38",
+    "ja": "愛媛"
+  },
+  {
+    "id": "kochi",
+    "code": "39",
+    "ja": "高知"
+  },
+  {
+    "id": "fukuoka",
+    "code": "40",
+    "ja": "福岡"
+  },
+  {
+    "id": "saga",
+    "code": "41",
+    "ja": "佐賀"
+  },
+  {
+    "id": "nagasaki",
+    "code": "42",
+    "ja": "長崎"
+  },
+  {
+    "id": "kumamoto",
+    "code": "43",
+    "ja": "熊本"
+  },
+  {
+    "id": "oita",
+    "code": "44",
+    "ja": "大分"
+  },
+  {
+    "id": "miyazaki",
+    "code": "45",
+    "ja": "宮崎"
+  },
+  {
+    "id": "kagoshima",
+    "code": "46",
+    "ja": "鹿児島"
+  },
+  {
+    "id": "okinawa",
+    "code": "47",
+    "ja": "沖縄"
+  }
+]
