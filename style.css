@@ -6,19 +6,19 @@
   margin: 0 auto;
 }
 
-#japanese-prefectures
+.japan
 {
   width: 100%;
 }
 
-#japanese-prefectures .prefecture
+.japan .prefecture
 {
   fill: #f7f7f7;
   stroke: #777777;
   cursor: pointer;
 }
 
-#japanese-prefectures .boundary-line
+.japan .boundary-line
 {
   stroke: #999999;
 }

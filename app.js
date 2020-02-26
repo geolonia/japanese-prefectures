@@ -5,7 +5,7 @@
   if ( res.ok ) {
     const svg = await res.text()
     document.getElementById( 'map' ).innerHTML = svg
-    const prefs = document.querySelectorAll('#japanese-prefectures .prefecture')
+    const prefs = document.querySelectorAll('#map .prefecture')
     prefs.forEach( (pref) => {
       pref.addEventListener( 'mouseover', (event) => {
         event.currentTarget.style.fill = "#ff0000"
