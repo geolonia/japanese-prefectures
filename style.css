@@ -1,12 +1,12 @@
 #map
 {
-  width: 800px;
+  width: 480px;
   height: auto;
   max-width: 98%;
   margin: 0 auto;
 }
 
-svg
+#japanese-prefectures
 {
   width: 100%;
 }
