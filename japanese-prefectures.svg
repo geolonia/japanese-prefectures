@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 1010 983" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1000px" height="1000px" viewBox="0 0 1016 1016" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Japanese Prefectures</title>
     <desc>Created by Geolonia (https://geolonia.com/).</desc>
-    <g id="japanese-prefectures" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="japanese-prefectures" transform="translate(6.000000, 18.000000)">
         <g id="okinawa" class="prefecture" stroke-linejoin="round" transform="translate(52.000000, 193.000000)" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.1">
             <polygon id="Path" points="4 109 6 110 4 111 0 110"></polygon>
             <polygon id="Path" points="48 121 55 123 51 129 39 124 42 122 44 125 46 118"></polygon>
@@ -160,7 +160,7 @@
         <g id="iwate" class="prefecture" stroke-linejoin="round" transform="translate(664.000000, 354.000000)" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.1">
             <polygon id="Path" points="48 92 41 91 39 105 33 102 29 107 23 103 25 99 17 100 7 95 8 89 5 84 8 81 0 68 3 57 7 51 5 46 8 42 5 38 10 37 8 19 12 14 16 15 29 5 31 8 35 5 40 7 46 0 54 11 52 16 57 19 55 23 61 28 64 43 62 53 65 49 66 54 68 55 62 60 64 62 67 59 67 63 63 63 63 68 60 69 65 68 60 71 62 73 60 75 64 74 58 81 62 83 57 83 60 86 57 86 59 88 53 89 52 86 54 91 52 91 52 94 50 90"></polygon>
         </g>
-        <g id="aomori" class="prefecture" class="prefecture" stroke-linejoin="round" transform="translate(624.000000, 287.000000)" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.1">
+        <g id="aomori" class="prefecture" stroke-linejoin="round" transform="translate(624.000000, 287.000000)" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.1">
             <polygon id="Path" points="3 71 3 63 0 60 6 51 12 51 18 47 21 31 17 27 20 26 21 19 27 23 31 20 35 23 37 38 40 45 46 41 45 37 47 33 58 42 61 39 65 23 61 16 55 22 41 25 47 0 64 11 73 6 71 37 73 51 77 62 81 61 86 67 80 74 75 72 71 75 69 72 56 82 52 81 53 70 48 70 48 65 38 72 35 70 32 72 25 67 22 70 10 68 7 72"></polygon>
         </g>
         <g id="hokkaido" class="prefecture" stroke-linejoin="round" transform="translate(602.000000, 10.000000)" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.1">
