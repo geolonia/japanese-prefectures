@@ -1,5 +1,5 @@
 ( async () => {
-  const url = "./japanese-prefectures.svg"
+  const url = "./map-small.svg"
   const res = await fetch( url )
 
   if ( res.ok ) {
