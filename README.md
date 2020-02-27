@@ -41,7 +41,7 @@ if ( res.ok ) {
 
     // マウスクリック時のイベント
     pref.addEventListener( 'click', ( event ) => {
-      location.href = `https://example.com/${event.currentTarget.dataset.code}` // 例: https://example.com/27
+      location.href = `https://example.com/${event.currentTarget.dataset.code}` // 例（大阪）: https://example.com/27
     } )
   } )
 }
