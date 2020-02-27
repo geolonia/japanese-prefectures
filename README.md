@@ -17,7 +17,7 @@ https://geolonia.github.io/japanese-prefectures/
 
 JavaScript で以下のように読み込んでください。
 
-```
+```javascript
 const map = "./map-full.svg" // Or "./map-mobile.svg"
 const container = document.querySelector( '#map' )
 
@@ -51,7 +51,7 @@ if ( res.ok ) {
 
 以下は CSS の記述例です。
 
-```
+```css
 .geolonia-svg-map
 {
   width: 100%;
