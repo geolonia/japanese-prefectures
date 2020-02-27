@@ -1,24 +1,35 @@
 
 .map
 {
-  width: 95%;
+  width: 600px;
+  max-width: 95%;
   height: auto;
-  margin: 0 auto;
+  margin: 16px auto;
+  border: 1px solid #555555;
+  box-sizing: border-box;
+  padding: 16px;
 }
 
-.japan
+.geolonia-svg-map
 {
   width: 100%;
 }
 
-.japan .prefecture
+.geolonia-svg-map .prefecture
 {
   fill: #f7f7f7;
   stroke: #666666;
   cursor: pointer;
 }
 
-.japan .boundary-line
+.geolonia-svg-map .boundary-line
 {
   stroke: #999999;
+}
+
+.forkme
+{
+  position: absolute;
+  top: 0;
+  left: 0;
 }
