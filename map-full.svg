@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 1015 1000" xmlns="http://www.w3.org/2000/svg">
+<svg class="japan" viewBox="0 0 1015 1000" xmlns="http://www.w3.org/2000/svg">
+  <title>Japanese Prefectures</title>
+  <desc>Created by Geolonia (https://geolonia.com/).</desc>
   <g class="prefectures" transform="translate(6.000000, 18.000000)">
     <g class="okinawa kyusyu-okinawa prefecture" stroke-linejoin="round" transform="translate(52.000000, 193.000000)" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0">
       <title>沖縄 / Okinawa</title>
