@@ -1,8 +1,12 @@
-#map
+table
 {
-  width: 800px;
+  width: 100%;
+}
+
+.map
+{
+  width: 50%;
   height: auto;
-  max-width: 98%;
   margin: 0 auto;
 }
 
