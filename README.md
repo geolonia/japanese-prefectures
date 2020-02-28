@@ -2,7 +2,7 @@
 
 ウェブサイトの検索インターフェース等で使用することを想定した、SVG フォーマットの日本地図です。都道府県別のリンクを作るなどのユースケースを想定しています。
 
-https://geolonia.github.io/japanese-prefectures/
+https://geolonia.github.io/japanese-prefectures/demo/
 
 ## 仕様
 
