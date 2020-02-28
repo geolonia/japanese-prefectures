@@ -1,6 +1,6 @@
 # SVG Map of Japan
 
-SVG フォーマットを使用した日本地図です。
+ウェブサイトの検索インターフェース等で使用することを想定した、SVG フォーマットの日本地図です。都道府県別のリンクを作るなどのユースケースを想定しています。
 
 https://geolonia.github.io/japanese-prefectures/
 
@@ -10,6 +10,8 @@ https://geolonia.github.io/japanese-prefectures/
 * `data-code` という属性をもっており、都道府県コードが格納されています。（大阪府の例: data-code="27"）
 * 誠に申し訳ございませんが、縦横比の都合上、小笠原諸島等の一部の離島は省略してあります。
 * 2種類の SVG ファイルがありますので、好みで使い分けてください。
+  * [map-full.svg](https://github.com/geolonia/japanese-prefectures/blob/master/map-full.svg) - フルサイズの地図です。
+  * [map-mobile.svg](https://github.com/geolonia/japanese-prefectures/blob/master/map-mobile.svg) - モバイルデバイス用にアレンジした地図です。
 
 ## 使い方 （例）
 
