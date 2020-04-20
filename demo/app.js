@@ -1,4 +1,4 @@
-const maps = [ "../map-full.svg", "../map-mobile.svg" ]
+const maps = [ "../map-circle.svg", "../map-full.svg", "../map-mobile.svg" ]
 const containers = document.querySelectorAll( '.map' )
 
 maps.forEach( async ( map, index ) => {

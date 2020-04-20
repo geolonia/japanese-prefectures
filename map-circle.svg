@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg class="geolonia-svg-map" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+	<title>Japanese Prefectures</title>
+	<desc>Created by Geolonia (https://geolonia.com/).</desc>
+	<g class="svg-map">
+		<g class="prefectures">
+			<g class="okinawa kyusyu-okinawa prefecture" data-code="47">
+				<title>沖縄 / Okinawa</title>
+				<g>
+					<circle cx="159.1" cy="477.3" r="22.7"/>
+					<circle cx="159.1" cy="522.7" r="22.7"/>
+				</g>
+			</g>
+			<g class="kagoshima kyusyu kyusyu-okinawa prefecture" data-code="46">
+				<title>鹿児島 / Kagoshima</title>
+				<g>
+					<circle cx="113.6" cy="931.8" r="22.7"/>
+					<circle cx="159.1" cy="931.8" r="22.7"/>
+					<circle cx="204.5" cy="931.8" r="22.7"/>
+					<circle cx="113.6" cy="977.3" r="22.7"/>
+					<circle cx="159.1" cy="977.3" r="22.7"/>
+					<circle cx="204.5" cy="977.3" r="22.7"/>
+				</g>
+			</g>
+			<g class="miyazaki kyusyu kyusyu-okinawa prefecture" data-code="45">
+				<title>宮崎 / Miyazaki</title>
+				<g>
+					<circle cx="159.1" cy="840.9" r="22.7"/>
+					<circle cx="204.5" cy="840.9" r="22.7"/>
+					<circle cx="159.1" cy="886.4" r="22.7"/>
+					<circle cx="204.5" cy="886.4" r="22.7"/>
+				</g>
+			</g>
+			<g class="oita kyusyu kyusyu-okinawa prefecture" data-code="44">
+				<title>大分 / Oita</title>
+				<g>
+					<circle cx="159.1" cy="750" r="22.7"/>
+					<circle cx="204.5" cy="750" r="22.7"/>
+					<circle cx="159.1" cy="795.5" r="22.7"/>
+					<circle cx="204.5" cy="795.5" r="22.7"/>
+				</g>
+			</g>
+			<g class="kumamoto kyusyu kyusyu-okinawa prefecture" data-code="43">
+				<title>熊本 / kumamoto</title>
+				<g>
+					<circle cx="113.6" cy="750" r="22.7"/>
+					<circle cx="113.6" cy="795.5" r="22.7"/>
+					<circle cx="113.6" cy="840.9" r="22.7"/>
+					<circle cx="113.6" cy="886.4" r="22.7"/>
+				</g>
+			</g>
+			<g class="nagasaki kyusyu kyusyu-okinawa prefecture" data-code="42">
+				<title>長崎 / Nagasaki</title>
+				<g>
+					<circle cx="22.7" cy="659.1" r="22.7"/>
+					<circle cx="22.7" cy="704.5" r="22.7"/>
+					<circle cx="22.7" cy="750" r="22.7"/>
+				</g>
+			</g>
+			<g class="saga kyusyu kyusyu-okinawa prefecture" data-code="41">
+				<title>佐賀 / Saga</title>
+				<g>
+					<circle cx="68.2" cy="659.1" r="22.7"/>
+					<circle cx="68.2" cy="704.5" r="22.7"/>
+					<circle cx="68.2" cy="750" r="22.7"/>
+				</g>
+			</g>
+			<g class="fukuoka kyusyu kyusyu-okinawa prefecture" data-code="40">
+				<title>福岡 / Fukuoka</title>
+				<g>
+					<circle cx="113.6" cy="659.1" r="22.7"/>
+					<circle cx="159.1" cy="659.1" r="22.7"/>
+					<circle cx="204.5" cy="659.1" r="22.7"/>
+					<circle cx="113.6" cy="704.5" r="22.7"/>
+					<circle cx="159.1" cy="704.5" r="22.7"/>
+					<circle cx="204.5" cy="704.5" r="22.7"/>
+				</g>
+			</g>
+			<g class="kochi shikoku prefecture" data-code="39">
+				<title>高知 / Kochi</title>
+				<g>
+					<circle cx="272.7" cy="931.8" r="22.7"/>
+					<circle cx="318.2" cy="931.8" r="22.7"/>
+					<circle cx="272.7" cy="977.3" r="22.7"/>
+					<circle cx="318.2" cy="977.3" r="22.7"/>
+				</g>
+			</g>
+			<g class="ehime sikoku prefecture" data-code="38">
+				<title>愛媛 / Ehime</title>
+				<g>
+					<circle cx="272.7" cy="886.4" r="22.7"/>
+					<circle cx="318.2" cy="886.4" r="22.7"/>
+				</g>
+			</g>
+			<g class="kagawa shikoku prefecture" data-code="37">
+				<title>香川 / Kagawa</title>
+				<g>
+					<circle cx="363.6" cy="886.4" r="22.7"/>
+					<circle cx="409.1" cy="886.4" r="22.7"/>
+				</g>
+			</g>
+			<g class="tokushima shikoku prefecture" data-code="36">
+				<title>徳島 / Tokushima</title>
+				<g>
+					<circle cx="363.6" cy="931.8" r="22.7"/>
+					<circle cx="409.1" cy="931.8" r="22.7"/>
+					<circle cx="363.6" cy="977.3" r="22.7"/>
+					<circle cx="409.1" cy="977.3" r="22.7"/>
+				</g>
+			</g>
+			<g class="yamaguchi chugoku prefecture" data-code="35">
+				<title>山口 / Yamaguchi</title>
+				<g>
+					<circle cx="272.7" cy="659.1" r="22.7"/>
+					<circle cx="272.7" cy="704.5" r="22.7"/>
+					<circle cx="272.7" cy="750" r="22.7"/>
+					<circle cx="272.7" cy="795.5" r="22.7"/>
+				</g>
+			</g>
+			<g class="hiroshima chugoku prefecture" data-code="34">
+				<title>広島 / Hiroshima</title>
+				<g>
+					<circle cx="318.2" cy="750" r="22.7"/>
+					<circle cx="318.2" cy="795.5" r="22.7"/>
+				</g>
+			</g>
+			<g class="okayama chugoku prefecture" data-code="33">
+				<title>岡山 / Okayama</title>
+				<g>
+					<circle cx="363.6" cy="750" r="22.7"/>
+					<circle cx="363.6" cy="795.5" r="22.7"/>
+				</g>
+			</g>
+			<g class="shimane chugoku prefecture" data-code="32">
+				<title>島根 / Shimane</title>
+				<g>
+					<circle cx="318.2" cy="659.1" r="22.7"/>
+					<circle cx="318.2" cy="704.5" r="22.7"/>
+				</g>
+			</g>
+			<g class="tottori chugoku prefecture" data-code="31">
+				<title>鳥取 / Tottori</title>
+				<g>
+					<circle cx="363.6" cy="659.1" r="22.7"/>
+					<circle cx="363.6" cy="704.5" r="22.7"/>
+				</g>
+			</g>
+			<g class="wakayama kinki prefecture" data-code="30">
+				<title>和歌山 / Wakayama</title>
+				<g>
+					<circle cx="477.3" cy="977.3" r="22.7"/>
+					<circle cx="522.7" cy="977.3" r="22.7"/>
+				</g>
+			</g>
+			<g class="nara kinki prefecture" data-code="29">
+				<title>奈良 / Nara</title>
+				<g>
+					<circle cx="522.7" cy="795.5" r="22.7"/>
+					<circle cx="522.7" cy="840.9" r="22.7"/>
+					<circle cx="522.7" cy="886.4" r="22.7"/>
+					<circle cx="522.7" cy="931.8" r="22.7"/>
+				</g>
+			</g>
+			<g class="hyogo kinki prefecture" data-code="28">
+				<title>兵庫 / Hyogo</title>
+				<g>
+					<circle cx="409.1" cy="659.1" r="22.7"/>
+					<circle cx="409.1" cy="704.5" r="22.7"/>
+					<circle cx="409.1" cy="750" r="22.7"/>
+					<circle cx="409.1" cy="795.5" r="22.7"/>
+				</g>
+			</g>
+			<g class="osaka kinki prefecture" data-code="27">
+				<title>大阪 / Osaka</title>
+				<g>
+					<circle cx="477.3" cy="795.5" r="22.7"/>
+					<circle cx="477.3" cy="840.9" r="22.7"/>
+					<circle cx="477.3" cy="886.4" r="22.7"/>
+					<circle cx="477.3" cy="931.8" r="22.7"/>
+				</g>
+			</g>
+			<g class="kyoto kinki prefecture" data-code="26">
+				<title>京都 / Kyoto</title>
+				<g>
+					<circle cx="477.3" cy="659.1" r="22.7"/>
+					<circle cx="477.3" cy="704.5" r="22.7"/>
+					<circle cx="522.7" cy="704.5" r="22.7"/>
+					<circle cx="477.3" cy="750" r="22.7"/>
+					<circle cx="522.7" cy="750" r="22.7"/>
+				</g>
+			</g>
+			<g class="shiga kinki prefecture" data-code="25">
+				<title>滋賀 / Shiga</title>
+				<g>
+					<circle cx="568.2" cy="704.5" r="22.7"/>
+					<circle cx="568.2" cy="750" r="22.7"/>
+				</g>
+			</g>
+			<g class="mie kinki prefecture" data-code="24">
+				<title>三重 / Mie</title>
+				<g>
+					<circle cx="568.2" cy="795.5" r="22.7"/>
+					<circle cx="568.2" cy="840.9" r="22.7"/>
+					<circle cx="568.2" cy="886.4" r="22.7"/>
+					<circle cx="568.2" cy="931.8" r="22.7"/>
+					<circle cx="568.2" cy="977.3" r="22.7"/>
+				</g>
+			</g>
+			<g class="aichi chubu prefecture" data-code="23">
+				<title>愛知 / Aichi</title>
+				<g>
+					<circle cx="613.6" cy="886.4" r="22.7"/>
+					<circle cx="659.1" cy="886.4" r="22.7"/>
+					<circle cx="613.6" cy="931.8" r="22.7"/>
+					<circle cx="659.1" cy="931.8" r="22.7"/>
+				</g>
+			</g>
+			<g class="shizuoka chubu prefecture" data-code="22">
+				<title>静岡 / Shizuoka</title>
+				<g>
+					<circle cx="704.5" cy="886.4" r="22.7"/>
+					<circle cx="750" cy="886.4" r="22.7"/>
+					<circle cx="795.5" cy="886.4" r="22.7"/>
+					<circle cx="704.5" cy="931.8" r="22.7"/>
+					<circle cx="750" cy="931.8" r="22.7"/>
+					<circle cx="795.5" cy="931.8" r="22.7"/>
+				</g>
+			</g>
+			<g class="gifu chubu prefecture" data-code="21">
+				<title>岐阜 / Gifu</title>
+				<g>
+					<circle cx="613.6" cy="613.6" r="22.7"/>
+					<circle cx="659.1" cy="613.6" r="22.7"/>
+					<circle cx="613.6" cy="659.1" r="22.7"/>
+					<circle cx="659.1" cy="659.1" r="22.7"/>
+					<circle cx="613.6" cy="704.5" r="22.7"/>
+					<circle cx="659.1" cy="704.5" r="22.7"/>
+					<circle cx="613.6" cy="750" r="22.7"/>
+					<circle cx="659.1" cy="750" r="22.7"/>
+					<circle cx="613.6" cy="795.5" r="22.7"/>
+					<circle cx="659.1" cy="795.5" r="22.7"/>
+					<circle cx="613.6" cy="840.9" r="22.7"/>
+					<circle cx="659.1" cy="840.9" r="22.7"/>
+				</g>
+			</g>
+			<g class="nagano chubu prefecture" data-code="20">
+				<title>長野 / Nagano</title>
+				<g>
+					<circle cx="704.5" cy="613.6" r="22.7"/>
+					<circle cx="750" cy="613.6" r="22.7"/>
+					<circle cx="704.5" cy="659.1" r="22.7"/>
+					<circle cx="750" cy="659.1" r="22.7"/>
+					<circle cx="704.5" cy="704.5" r="22.7"/>
+					<circle cx="750" cy="704.5" r="22.7"/>
+					<circle cx="704.5" cy="750" r="22.7"/>
+					<circle cx="750" cy="750" r="22.7"/>
+					<circle cx="704.5" cy="795.5" r="22.7"/>
+					<circle cx="704.5" cy="840.9" r="22.7"/>
+				</g>
+			</g>
+			<g class="yamanashi chubu prefecture" data-code="19">
+				<title>山梨 / Yamanashi</title>
+				<g>
+					<circle cx="750" cy="795.5" r="22.7"/>
+					<circle cx="795.5" cy="795.5" r="22.7"/>
+					<circle cx="750" cy="840.9" r="22.7"/>
+					<circle cx="795.5" cy="840.9" r="22.7"/>
+				</g>
+			</g>
+			<g class="fukui chubu prefecture" data-code="18">
+				<title>福井 / Fukui</title>
+				<g>
+					<circle cx="568.2" cy="613.6" r="22.7"/>
+					<circle cx="522.7" cy="659.1" r="22.7"/>
+					<circle cx="568.2" cy="659.1" r="22.7"/>
+				</g>
+			</g>
+			<g class="ishikawa chubu prefecture" data-code="17">
+				<title>石川 / Ishikawa</title>
+				<g>
+					<circle cx="568.2" cy="477.3" r="22.7"/>
+					<circle cx="568.2" cy="522.7" r="22.7"/>
+					<circle cx="568.2" cy="568.2" r="22.7"/>
+				</g>
+			</g>
+			<g class="toyama chubu prefecture" data-code="16">
+				<title>富山 / Toyama</title>
+				<g>
+					<circle cx="613.6" cy="522.7" r="22.7"/>
+					<circle cx="659.1" cy="522.7" r="22.7"/>
+					<circle cx="613.6" cy="568.2" r="22.7"/>
+					<circle cx="659.1" cy="568.2" r="22.7"/>
+				</g>
+			</g>
+			<g class="niigata chubu prefecture" data-code="15">
+				<title>新潟 / Niigata</title>
+				<g>
+					<circle cx="750" cy="477.3" r="22.7"/>
+					<circle cx="704.5" cy="522.7" r="22.7"/>
+					<circle cx="750" cy="522.7" r="22.7"/>
+					<circle cx="704.5" cy="568.2" r="22.7"/>
+					<circle cx="750" cy="568.2" r="22.7"/>
+				</g>
+			</g>
+			<g class="kanagawa kanto prefecture" data-code="14">
+				<title>神奈川 / Kanagawa</title>
+				<g>
+					<circle cx="840.9" cy="886.4" r="22.7"/>
+					<circle cx="886.4" cy="886.4" r="22.7"/>
+				</g>
+			</g>
+			<g class="tokyo kanto prefecture" data-code="13">
+				<title>東京 / Tokyo</title>
+				<g>
+					<circle cx="840.9" cy="795.5" r="22.7"/>
+					<circle cx="886.4" cy="795.5" r="22.7"/>
+					<circle cx="931.8" cy="795.5" r="22.7"/>
+					<circle cx="840.9" cy="840.9" r="22.7"/>
+					<circle cx="886.4" cy="840.9" r="22.7"/>
+				</g>
+			</g>
+			<g class="chiba kanto prefecture" data-code="12">
+				<title>千葉 / Chiba</title>
+				<g>
+					<circle cx="977.3" cy="795.5" r="22.7"/>
+					<circle cx="977.3" cy="840.9" r="22.7"/>
+					<circle cx="977.3" cy="886.4" r="22.7"/>
+					<circle cx="977.3" cy="931.8" r="22.7"/>
+				</g>
+			</g>
+			<g class="saitama kanto prefecture" data-code="11">
+				<title>埼玉 / Saitama</title>
+				<g>
+					<circle cx="795.5" cy="704.5" r="22.7"/>
+					<circle cx="840.9" cy="704.5" r="22.7"/>
+					<circle cx="886.4" cy="704.5" r="22.7"/>
+					<circle cx="931.8" cy="704.5" r="22.7"/>
+					<circle cx="795.5" cy="750" r="22.7"/>
+					<circle cx="840.9" cy="750" r="22.7"/>
+					<circle cx="886.4" cy="750" r="22.7"/>
+					<circle cx="931.8" cy="750" r="22.7"/>
+				</g>
+			</g>
+			<g class="gunma kanto prefecture" data-code="10">
+				<title>群馬 / Gunma</title>
+				<g>
+					<circle cx="795.5" cy="613.6" r="22.7"/>
+					<circle cx="840.9" cy="613.6" r="22.7"/>
+					<circle cx="795.5" cy="659.1" r="22.7"/>
+					<circle cx="840.9" cy="659.1" r="22.7"/>
+				</g>
+			</g>
+			<g class="tochigi kanto prefecture" data-code="9">
+				<title>栃木 / Tochigi</title>
+				<g>
+					<circle cx="886.4" cy="613.6" r="22.7"/>
+					<circle cx="931.8" cy="613.6" r="22.7"/>
+					<circle cx="886.4" cy="659.1" r="22.7"/>
+					<circle cx="931.8" cy="659.1" r="22.7"/>
+				</g>
+			</g>
+			<g class="ibaraki kanto prefecture" data-code="8">
+				<title>茨城 / Ibaraki</title>
+				<g>
+					<circle cx="977.3" cy="613.6" r="22.7"/>
+					<circle cx="977.3" cy="659.1" r="22.7"/>
+					<circle cx="977.3" cy="704.5" r="22.7"/>
+					<circle cx="977.3" cy="750" r="22.7"/>
+				</g>
+			</g>
+			<g class="fukushima tohoku prefecture" data-code="7">
+				<title>福島 / Fukushima</title>
+				<g>
+					<circle cx="795.5" cy="522.7" r="22.7"/>
+					<circle cx="840.9" cy="522.7" r="22.7"/>
+					<circle cx="886.4" cy="522.7" r="22.7"/>
+					<circle cx="931.8" cy="522.7" r="22.7"/>
+					<circle cx="977.3" cy="522.7" r="22.7"/>
+					<circle cx="795.5" cy="568.2" r="22.7"/>
+					<circle cx="840.9" cy="568.2" r="22.7"/>
+					<circle cx="886.4" cy="568.2" r="22.7"/>
+					<circle cx="931.8" cy="568.2" r="22.7"/>
+					<circle cx="977.3" cy="568.2" r="22.7"/>
+				</g>
+			</g>
+			<g class="yamagata tohoku prefecture" data-code="6">
+				<title>山形 / Yamagata</title>
+				<g>
+					<circle cx="795.5" cy="477.3" r="22.7"/>
+					<circle cx="840.9" cy="477.3" r="22.7"/>
+					<circle cx="750" cy="431.8" r="22.7"/>
+					<circle cx="795.5" cy="431.8" r="22.7"/>
+					<circle cx="840.9" cy="431.8" r="22.7"/>
+				</g>
+			</g>
+			<g class="akita tohoku prefecture" data-code="5">
+				<title>秋田 / Akita</title>
+				<g>
+					<circle cx="750" cy="340.9" r="22.7"/>
+					<circle cx="795.5" cy="340.9" r="22.7"/>
+					<circle cx="840.9" cy="340.9" r="22.7"/>
+					<circle cx="750" cy="386.4" r="22.7"/>
+					<circle cx="795.5" cy="386.4" r="22.7"/>
+					<circle cx="840.9" cy="386.4" r="22.7"/>
+				</g>
+			</g>
+			<g class="miyagi tohoku prefecture" data-code="4">
+				<title>宮城 / Miyagi</title>
+				<g>
+					<circle cx="886.4" cy="477.3" r="22.7"/>
+					<circle cx="931.8" cy="477.3" r="22.7"/>
+					<circle cx="977.3" cy="477.3" r="22.7"/>
+					<circle cx="886.4" cy="431.8" r="22.7"/>
+					<circle cx="931.8" cy="431.8" r="22.7"/>
+					<circle cx="977.3" cy="431.8" r="22.7"/>
+				</g>
+			</g>
+			<g class="iwate tohoku prefecture" data-code="3">
+				<title>岩手 / Iwate</title>
+				<g>
+					<circle cx="886.4" cy="340.9" r="22.7"/>
+					<circle cx="931.8" cy="340.9" r="22.7"/>
+					<circle cx="977.3" cy="340.9" r="22.7"/>
+					<circle cx="886.4" cy="386.4" r="22.7"/>
+					<circle cx="931.8" cy="386.4" r="22.7"/>
+					<circle cx="977.3" cy="386.4" r="22.7"/>
+				</g>
+			</g>
+			<g class="aomori tohoku prefecture" data-code="2">
+				<title>青森 / Aomori</title>
+				<g>
+					<circle cx="750" cy="250" r="22.7"/>
+					<circle cx="795.5" cy="250" r="22.7"/>
+					<circle cx="840.9" cy="250" r="22.7"/>
+					<circle cx="886.4" cy="250" r="22.7"/>
+					<circle cx="931.8" cy="250" r="22.7"/>
+					<circle cx="977.3" cy="250" r="22.7"/>
+					<circle cx="750" cy="295.5" r="22.7"/>
+					<circle cx="795.5" cy="295.5" r="22.7"/>
+					<circle cx="840.9" cy="295.5" r="22.7"/>
+					<circle cx="886.4" cy="295.5" r="22.7"/>
+					<circle cx="931.8" cy="295.5" r="22.7"/>
+					<circle cx="977.3" cy="295.5" r="22.7"/>
+				</g>
+			</g>
+			<g class="hokkaido prefecture" data-code="1">
+				<title>北海道 / Hokkaido</title>
+				<g>
+					<circle cx="750" cy="22.7" r="22.7"/>
+					<circle cx="795.5" cy="22.7" r="22.7"/>
+					<circle cx="840.9" cy="22.7" r="22.7"/>
+					<circle cx="886.4" cy="22.7" r="22.7"/>
+					<circle cx="931.8" cy="22.7" r="22.7"/>
+					<circle cx="977.3" cy="22.7" r="22.7"/>
+					<circle cx="750" cy="68.2" r="22.7"/>
+					<circle cx="795.5" cy="68.2" r="22.7"/>
+					<circle cx="840.9" cy="68.2" r="22.7"/>
+					<circle cx="886.4" cy="68.2" r="22.7"/>
+					<circle cx="931.8" cy="68.2" r="22.7"/>
+					<circle cx="977.3" cy="68.2" r="22.7"/>
+					<circle cx="750" cy="113.6" r="22.7"/>
+					<circle cx="795.5" cy="113.6" r="22.7"/>
+					<circle cx="840.9" cy="113.6" r="22.7"/>
+					<circle cx="886.4" cy="113.6" r="22.7"/>
+					<circle cx="931.8" cy="113.6" r="22.7"/>
+					<circle cx="977.3" cy="113.6" r="22.7"/>
+					<circle cx="750" cy="159.1" r="22.7"/>
+					<circle cx="795.5" cy="159.1" r="22.7"/>
+				</g>
+			</g>
+    </g>
+		<g class="boundary-line" stroke="#EEEEEE" stroke-width="12" stroke-linejoin="round" style="">
+			<path d="M216.1,593.3H89.3c-1.1,0-2-0.9-2-2s0.9-2,2-2h126.9c4.4,0,8-3.6,8-8V454.4c0-1.1,0.9-2,2-2s2,0.9,2,2v126.9
+				C228.2,587.9,222.8,593.3,216.1,593.3z"/>
+    	</g>
+  	</g>
+</svg>
