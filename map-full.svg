@@ -4,7 +4,7 @@
   <desc>Created by Geolonia (https://geolonia.com/).</desc>
   <g class="svg-map" transform="matrix(1.028807, 0, 0, 1.028807, -47.544239, -28.806583)">
     <g class="prefectures" transform="matrix(1, 0, 0, 1, 6, 18)">
-      <g class="okinawa kyusyu-okinawa prefecture" data-code="47" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(52.000000, 193.000000)">
+      <g class="okinawa kyushu-okinawa prefecture" data-code="47" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(52.000000, 193.000000)">
         <title>沖縄 / Okinawa</title>
         <polygon points="4 109 6 110 4 111 0 110"/>
         <polygon points="48 121 55 123 51 129 39 124 42 122 44 125 46 118"/>
@@ -16,7 +16,7 @@
         <polygon points="279 8 279 6 283 8"/>
         <polygon points="293 11 294 13 292 12"/>
       </g>
-      <g class="kagoshima kyusyu kyusyu-okinawa prefecture" data-code="46" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(96.000000, 17.000000)">
+      <g class="kagoshima kyushu kyushu-okinawa prefecture" data-code="46" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(96.000000, 17.000000)">
         <title>鹿児島 / Kagoshima</title>
         <polygon points="23 949 26 951 23 952"/>
         <polygon points="33 960 32 954 39 950 48 956 47 961 41 965 35 964"/>
@@ -34,27 +34,27 @@
         <polygon points="355 12 352 16 352 13"/>
         <polygon points="361 1 363 0 365 4"/>
       </g>
-      <g class="miyazaki kyusyu kyusyu-okinawa prefecture" data-code="45" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(152.000000, 824.000000)">
+      <g class="miyazaki kyushu kyushu-okinawa prefecture" data-code="45" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(152.000000, 824.000000)">
         <title>宮崎 / Miyazaki</title>
         <polygon points="36 0 38 1 43 0 48 5 56 5 59 1 63 2 63 7 65 7 54 17 53 21 56 22 52 23 51 25 53 26 47 34 41 51 39 74 34 79 32 91 27 89 22 84 24 81 24 74 17 73 14 64 9 62 10 57 5 52 0 45 1 43 22 41 19 35 23 30 18 23 18 16 23 14 32 0"/>
       </g>
-      <g class="oita kyusyu kyusyu-okinawa prefecture" data-code="44" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(163.000000, 771.000000)">
+      <g class="oita kyushu kyushu-okinawa prefecture" data-code="44" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(163.000000, 771.000000)">
         <title>大分 / Oita</title>
         <polygon points="0 34 3 29 0 26 2 24 1 19 5 13 12 9 19 10 20 3 33 7 38 0 47 4 49 10 46 18 43 17 43 20 35 22 36 26 40 28 56 27 50 36 56 36 53 38 56 40 61 38 62 41 57 41 55 45 65 49 59 49 61 51 57 54 60 55 54 56 54 60 52 60 52 55 48 54 45 58 37 58 32 53 27 54 25 53 21 49 22 43 15 30 9 30 10 36 8 39"/>
       </g>
-      <g class="kumamoto kyusyu kyusyu-okinawa prefecture" data-code="43" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(115.000000, 800.000000)">
+      <g class="kumamoto kyushu kyushu-okinawa prefecture" data-code="43" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(115.000000, 800.000000)">
         <title>熊本 / kumamoto</title>
         <path d="M8,37 L13,38 L13,48 L5,57 L1,58 L1,52 L5,51 L0,50 L4,40 L3,37 L8,37 Z M20,47 L14,47 L12,43 L19,39 L26,39 L23,47 L20,47 Z M24,34 L26,34 L26,38 L23,38 L24,34 Z M38,67 L33,61 L24,65 L19,61 L32,46 L30,40 L32,41 L31,39 L37,34 L26,34 L34,28 L35,23 L27,15 L26,10 L31,10 L30,7 L35,3 L39,4 L40,0 L48,5 L56,10 L58,7 L57,1 L63,1 L70,14 L69,20 L73,24 L69,24 L60,38 L55,40 L55,47 L60,54 L56,59 L59,65 L38,67 Z"/>
       </g>
-      <g class="nagasaki kyusyu kyusyu-okinawa prefecture" data-code="42" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(44.000000, 700.000000)">
+      <g class="nagasaki kyushu kyushu-okinawa prefecture" data-code="42" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(44.000000, 700.000000)">
         <title>長崎 / Nagasaki</title>
         <path d="M53,1 L55,0 L57,2 L54,5 L55,9 L49,15 L48,19 L51,18 L49,22 L51,21 L48,25 L48,20 L46,22 L46,19 L45,22 L42,20 L44,20 L45,15 L47,15 L45,14 L49,10 L46,8 L48,3 L52,3 L53,1 Z M46,29 L43,35 L37,36 L40,22 L41,24 L45,25 L44,22 L45,26 L48,25 L46,29 Z M67,59 L68,61 L64,63 L60,59 L62,59 L61,56 L64,53 L67,55 L66,57 L68,58 L67,59 Z M28,110 L25,115 L26,110 L23,107 L26,106 L26,102 L28,102 L30,94 L28,105 L33,106 L30,108 L28,106 L28,110 Z M24,112 L21,111 L21,109 L23,111 L22,108 L24,112 Z M19,113 L20,110 L19,116 L16,111 L19,113 Z M6,118 L9,117 L10,119 L12,115 L16,125 L9,124 L9,129 L0,126 L1,124 L3,126 L4,125 L2,125 L5,122 L4,116 L6,118 Z M65,80 L62,81 L64,78 L65,80 Z M67,82 L70,84 L67,86 L67,82 Z M29,88 L31,85 L33,87 L29,88 Z M54,76 L51,77 L55,74 L54,76 Z M66,86 L64,89 L66,96 L73,98 L72,102 L78,109 L86,112 L79,117 L92,118 L94,123 L92,130 L82,134 L80,128 L85,124 L84,122 L79,121 L71,123 L68,129 L60,134 L64,129 L63,126 L65,127 L67,123 L64,125 L63,118 L59,117 L56,111 L59,100 L63,104 L62,108 L63,106 L66,108 L64,115 L75,118 L71,112 L72,107 L69,103 L66,105 L65,99 L62,99 L62,97 L58,100 L60,98 L57,96 L57,93 L57,95 L53,93 L57,87 L54,86 L55,83 L60,82 L60,85 L65,84 L66,86 Z M49,88 L48,92 L42,94 L47,91 L45,89 L48,84 L52,84 L54,81 L55,84 L49,88 Z M15,115 L15,113 L18,116 L15,118 L15,115 Z M64,101 L63,104 L62,101 L64,98 L64,101 Z"/>
       </g>
-      <g class="saga kyusyu kyusyu-okinawa prefecture" data-code="41" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(108.000000, 773.000000)">
+      <g class="saga kyushu kyushu-okinawa prefecture" data-code="41" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(108.000000, 773.000000)">
         <title>佐賀 / Saga</title>
         <polygon points="15 6 28 6 34 12 41 10 40 16 32 21 30 28 25 23 19 29 22 39 14 36 8 29 9 25 2 23 0 16 2 13 5 17 4 13 6 9 2 6 3 4 6 6 6 0 7 2 11 2 12 7"/>
       </g>
-      <g class="fukuoka kyusyu kyusyu-okinawa prefecture" data-code="40" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(123.000000, 752.000000)">
+      <g class="fukuoka kyushu kyushu-okinawa prefecture" data-code="40" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(123.000000, 752.000000)">
         <title>福岡 / Fukuoka</title>
         <polygon points="40 53 32 48 31 52 27 51 22 55 23 58 18 58 18 52 15 49 17 42 25 37 26 31 19 33 13 27 0 27 7 23 3 20 10 15 13 21 20 20 21 15 17 17 14 14 19 15 23 12 25 5 35 3 36 0 42 1 38 5 41 5 43 2 46 4 53 0 49 8 52 10 50 11 55 22 60 22 59 29 52 28 45 32 41 38 42 43 40 45 43 48"/>
       </g>
@@ -62,7 +62,7 @@
         <title>高知 / Kochi</title>
         <path d="M61,0 L74,6 L80,4 L81,12 L88,13 L86,17 L88,21 L94,22 L87,41 L75,25 L65,21 L55,23 L55,21 L56,24 L44,28 L50,28 L44,29 L42,32 L41,29 L38,33 L39,38 L37,44 L34,44 L30,52 L25,53 L25,61 L22,64 L25,70 L21,66 L14,68 L9,65 L5,67 L6,61 L10,60 L9,57 L6,57 L8,54 L5,41 L9,44 L15,36 L20,33 L16,24 L27,23 L30,13 L37,4 L61,0 Z M1,69 L0,70 L0,67 L1,69 Z"/>
       </g>
-      <g class="ehime sikoku prefecture" data-code="38" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(225.000000, 737.000000)">
+      <g class="ehime shikoku prefecture" data-code="38" stroke-linejoin="round" fill="#EEEEEE" fill-rule="nonzero" stroke="#000000" stroke-width="1.0" transform="translate(225.000000, 737.000000)">
         <title>愛媛 / Ehime</title>
         <path d="M34,21 L31,20 L35,17 L34,21 Z M55,6 L51,6 L55,0 L57,3 L55,6 Z M60,5 L61,5 L60,7 L57,6 L60,5 Z M58,10 L54,12 L55,7 L60,8 L58,10 Z M32,85 L25,83 L25,86 L23,86 L24,81 L27,82 L21,76 L24,76 L22,72 L25,72 L22,71 L23,69 L20,67 L24,70 L28,66 L28,63 L24,63 L27,60 L19,60 L21,57 L19,56 L22,51 L16,50 L8,56 L0,57 L35,37 L41,18 L50,15 L48,11 L51,10 L59,24 L70,20 L80,22 L84,18 L89,20 L87,28 L63,32 L56,41 L53,51 L42,52 L46,61 L41,64 L35,72 L31,69 L34,82 L32,85 Z"/>
       </g>

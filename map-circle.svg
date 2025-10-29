@@ -4,14 +4,14 @@
 	<desc>Created by Geolonia (https://geolonia.com/).</desc>
 	<g class="svg-map">
 		<g class="prefectures">
-			<g class="okinawa kyusyu-okinawa prefecture" data-code="47">
+			<g class="okinawa kyushu-okinawa prefecture" data-code="47">
 				<title>沖縄 / Okinawa</title>
 				<g>
 					<circle cx="159.1" cy="477.3" r="22.7"/>
 					<circle cx="159.1" cy="522.7" r="22.7"/>
 				</g>
 			</g>
-			<g class="kagoshima kyusyu kyusyu-okinawa prefecture" data-code="46">
+			<g class="kagoshima kyushu kyushu-okinawa prefecture" data-code="46">
 				<title>鹿児島 / Kagoshima</title>
 				<g>
 					<circle cx="113.6" cy="931.8" r="22.7"/>
@@ -22,7 +22,7 @@
 					<circle cx="204.5" cy="977.3" r="22.7"/>
 				</g>
 			</g>
-			<g class="miyazaki kyusyu kyusyu-okinawa prefecture" data-code="45">
+			<g class="miyazaki kyushu kyushu-okinawa prefecture" data-code="45">
 				<title>宮崎 / Miyazaki</title>
 				<g>
 					<circle cx="159.1" cy="840.9" r="22.7"/>
@@ -31,7 +31,7 @@
 					<circle cx="204.5" cy="886.4" r="22.7"/>
 				</g>
 			</g>
-			<g class="oita kyusyu kyusyu-okinawa prefecture" data-code="44">
+			<g class="oita kyushu kyushu-okinawa prefecture" data-code="44">
 				<title>大分 / Oita</title>
 				<g>
 					<circle cx="159.1" cy="750" r="22.7"/>
@@ -40,7 +40,7 @@
 					<circle cx="204.5" cy="795.5" r="22.7"/>
 				</g>
 			</g>
-			<g class="kumamoto kyusyu kyusyu-okinawa prefecture" data-code="43">
+			<g class="kumamoto kyushu kyushu-okinawa prefecture" data-code="43">
 				<title>熊本 / kumamoto</title>
 				<g>
 					<circle cx="113.6" cy="750" r="22.7"/>
@@ -49,7 +49,7 @@
 					<circle cx="113.6" cy="886.4" r="22.7"/>
 				</g>
 			</g>
-			<g class="nagasaki kyusyu kyusyu-okinawa prefecture" data-code="42">
+			<g class="nagasaki kyushu kyushu-okinawa prefecture" data-code="42">
 				<title>長崎 / Nagasaki</title>
 				<g>
 					<circle cx="22.7" cy="659.1" r="22.7"/>
@@ -57,7 +57,7 @@
 					<circle cx="22.7" cy="750" r="22.7"/>
 				</g>
 			</g>
-			<g class="saga kyusyu kyusyu-okinawa prefecture" data-code="41">
+			<g class="saga kyushu kyushu-okinawa prefecture" data-code="41">
 				<title>佐賀 / Saga</title>
 				<g>
 					<circle cx="68.2" cy="659.1" r="22.7"/>
@@ -65,7 +65,7 @@
 					<circle cx="68.2" cy="750" r="22.7"/>
 				</g>
 			</g>
-			<g class="fukuoka kyusyu kyusyu-okinawa prefecture" data-code="40">
+			<g class="fukuoka kyushu kyushu-okinawa prefecture" data-code="40">
 				<title>福岡 / Fukuoka</title>
 				<g>
 					<circle cx="113.6" cy="659.1" r="22.7"/>
@@ -85,7 +85,7 @@
 					<circle cx="318.2" cy="977.3" r="22.7"/>
 				</g>
 			</g>
-			<g class="ehime sikoku prefecture" data-code="38">
+			<g class="ehime shikoku prefecture" data-code="38">
 				<title>愛媛 / Ehime</title>
 				<g>
 					<circle cx="272.7" cy="886.4" r="22.7"/>
