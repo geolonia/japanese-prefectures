@@ -4,37 +4,37 @@
 	<desc>Created by Geolonia (https://geolonia.com/).</desc>
 	<g class="svg-map">
 		<g class="prefectures">
-			<g class="okinawa kyusyu-okinawa prefecture" data-code="47">
+			<g class="okinawa kyushu-okinawa prefecture" data-code="47">
       <title>沖縄 / Okinawa</title>
 				<g>
 					<path d="M144.9,456.4c-4.4,0-8,3.6-8,8v71.2c0,4.4,3.6,8,8,8h25.6c4.4,0,8-3.6,8-8v-71.2c0-4.4-3.6-8-8-8H144.9z"/>
 				</g>
 			</g>
-			<g class="kagoshima kyusyu kyusyu-okinawa prefecture" data-code="46">
+			<g class="kagoshima kyushu kyushu-okinawa prefecture" data-code="46">
         <title>鹿児島 / Kagoshima</title>
 				<path d="M99.3,912.7c-4.4,0-8,3.6-8,8V992c0,4.4,3.6,8,8,8h116.8c4.4,0,8-3.6,8-8v-71.2c0-4.4-3.6-8-8-8H99.3z"/>
 			</g>
-			<g class="miyazaki kyusyu kyusyu-okinawa prefecture" data-code="45">
+			<g class="miyazaki kyushu kyushu-okinawa prefecture" data-code="45">
         <title>宮崎 / Miyazaki</title>
 				<path d="M167.8,821.5c-4.4,0-8,3.6-8,8v71.2c0,4.4,3.6,8,8,8h48.4c4.4,0,8-3.6,8-8v-71.2c0-4.4-3.6-8-8-8H167.8z"/>
 			</g>
-			<g class="oita kyusyu kyusyu-okinawa prefecture" data-code="44">
+			<g class="oita kyushu kyushu-okinawa prefecture" data-code="44">
         <title>大分 / Oita</title>
 				<path d="M167.8,730.2c-4.4,0-8,3.6-8,8v71.2c0,4.4,3.6,8,8,8h48.4c4.4,0,8-3.6,8-8v-71.2c0-4.4-3.6-8-8-8H167.8z"/>
 			</g>
-			<g class="kumamoto kyusyu kyusyu-okinawa prefecture" data-code="43">
+			<g class="kumamoto kyushu kyushu-okinawa prefecture" data-code="43">
         <title>熊本 / kumamoto</title>
 				<path d="M99.3,730.2c-4.4,0-8,3.6-8,8v162.5c0,4.4,3.6,8,8,8h48.4c4.4,0,8-3.6,8-8V738.2c0-4.4-3.6-8-8-8H99.3z"/>
 			</g>
-			<g class="nagasaki kyusyu kyusyu-okinawa prefecture" data-code="42">
+			<g class="nagasaki kyushu kyushu-okinawa prefecture" data-code="42">
         <title>長崎 / Nagasaki</title>
 				<path d="M8,638.9c-4.4,0-8,3.6-8,8v94c0,4.4,3.6,8,8,8h25.6c4.4,0,8-3.6,8-8v-94c0-4.4-3.6-8-8-8H8z"/>
 			</g>
-			<g class="saga kyusyu kyusyu-okinawa prefecture" data-code="41">
+			<g class="saga kyushu kyushu-okinawa prefecture" data-code="41">
         <title>佐賀 / Saga</title>
 				<path d="M53.7,638.9c-4.4,0-8,3.6-8,8v94c0,4.4,3.6,8,8,8h25.6c4.4,0,8-3.6,8-8v-94c0-4.4-3.6-8-8-8H53.7z"/>
 			</g>
-			<g class="fukuoka kyusyu kyusyu-okinawa prefecture" data-code="40">
+			<g class="fukuoka kyushu kyushu-okinawa prefecture" data-code="40">
         <title>福岡 / Fukuoka</title>
 				<path d="M99.3,638.9c-4.4,0-8,3.6-8,8v71.2c0,4.4,3.6,8,8,8h116.8c4.4,0,8-3.6,8-8V647c0-4.4-3.6-8-8-8H99.3z"/>
 			</g>
@@ -42,7 +42,7 @@
         <title>高知 / Kochi</title>
 				<path d="M281.9,935.6c-4.4,0-8,3.6-8,8V992c0,4.4,3.6,8,8,8H353c4.4,0,8-3.6,8-8v-48.4c0-4.4-3.6-8-8-8H281.9z"/>
 			</g>
-			<g class="ehime sikoku prefecture" data-code="38">
+			<g class="ehime shikoku prefecture" data-code="38">
         <title>愛媛 / Ehime</title>
 				<path d="M281.9,867.1c-4.4,0-8,3.6-8,8v48.4c0,4.4,3.6,8,8,8H353c4.4,0,8-3.6,8-8v-48.4c0-4.4-3.6-8-8-8H281.9z"/>
 			</g>
